@@ -33,8 +33,8 @@ The Chicago and New York City files also have the following two columns:
 
 ---
 
-This project tasked me with asking and answering at least 3 questions using the provided datasets, and generating
-relevant visuals to go with my analysis. The questions I asked were:
+This project tasked me with demonstrating new R skills by asking and answering at least 3 questions using the 
+provided datasets, and generating relevant visuals to go with my analysis. The questions I asked were:
 
   - What are the busiest stations in each city?
   - Which city has the highest percentage of rides by subscribers?
